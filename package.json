@@ -15,11 +15,9 @@
   "dependencies": {
     "comma-number": "^2.1.0",
     "dayjs": "^1.11.3",
-    "gsap": "./external_modules/gsap-bonus.tgz",
     "highcharts": "^10.3.2",
     "jquery": "3.6.1",
     "js-cookie": "^3.0.1",
-    "kbs-news-common": "./external_modules/kbs-news-common.tgz",
     "locomotive-scroll": "^4.1.4",
     "pretty-dropdowns": "^4.17.0",
     "query-string": "^5.1.1",
